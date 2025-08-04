@@ -34,3 +34,29 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Run json server
+
+```bash
+npx json-server .\database.json -p 3001
+```
+
+## Bookmarks Useful Web
+- ui components
+
+https://ui.shadcn.com/
+https://www.radix-ui.com/
+
+- encode image to base64
+
+https://www.base64-image.de/
+
+https://www.npmjs.com/package/json-server
+
+- json server
+
+https://www.npmjs.com/package/json-server
+
+- validate schema
+
+https://zod.dev/
